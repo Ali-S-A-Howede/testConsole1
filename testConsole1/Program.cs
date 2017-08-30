@@ -9,6 +9,7 @@ namespace testConsole1
     class Program
     {
         static void Main(string[] args)
+            //first project
         {
             string[] student = { "Ali", "Ahmed", "Jafer", "Joar" };
             Console.WriteLine("Enter the student name for search");
